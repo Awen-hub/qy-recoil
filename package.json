@@ -1,0 +1,12 @@
+{
+  "name": "qy-recoil",
+  "version": "0.0.18",
+  "main": "dist/index.js",
+  "miniprogram": "./dist",
+  "dependencies": {
+    "jsx2mp-runtime": "^0.4.8"
+  },
+  "devDependencies": {
+    "@types/wechat-miniprogram": "^3.4.0"
+  }
+}

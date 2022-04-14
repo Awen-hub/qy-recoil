@@ -1,6 +1,6 @@
 {
   "name": "qy-recoil",
-  "version": "0.0.18",
+  "version": "0.0.22",
   "main": "dist/index.js",
   "miniprogram": "./dist",
   "dependencies": {
